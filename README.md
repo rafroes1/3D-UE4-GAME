@@ -1,7 +1,7 @@
 # 3D-UE4-GAME
 3D game made using blueprints on UE4
 
-The entire game was modeled by me
+The entire game was modeled by me.
 Didnt really added any texture other then in the bridge door.
 It was a simple game that i created to get to know the engine.
 
